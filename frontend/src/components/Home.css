@@ -1,0 +1,15 @@
+.e-card{
+  border:1px;
+  padding-left:20px;
+  padding-right: 20px;
+}
+.response{ 
+  width: 900px; 
+  height: 750px; 
+  padding: 70px 0;
+  border: 3px solid gray;
+  text-align: center;
+ }
+.main{
+  display: flex;
+}
