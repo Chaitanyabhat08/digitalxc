@@ -1,5 +1,6 @@
 
 test cases :
+{node version 14 and above} for both.
  step 1: go to into the directory, and do npm install
  step 2: start the server as well as the frontend
  step 3: click on 'click here to start' button
